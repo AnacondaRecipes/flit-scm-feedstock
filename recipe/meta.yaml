@@ -40,6 +40,9 @@ about:
   summary: |
     A PEP 518 build backend that uses setuptools_scm to generate a version file
     from your version control system, then flit_core to build the package.
+  description: |
+    A PEP 518 build backend that uses setuptools_scm to generate a version file
+    from your version control system, then flit_core to build the package.
   license: MIT
   license_family: MIT
   license_file: LICENSE
