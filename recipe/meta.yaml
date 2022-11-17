@@ -53,3 +53,8 @@ extra:
   recipe-maintainers:
     - xylar
     - WillDaSilva
+  anaconda:
+    reason: Top 5000 package
+  only_lint:
+    - missing_source
+      
